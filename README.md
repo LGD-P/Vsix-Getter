@@ -15,11 +15,20 @@
 - output exemple : 
 
 ```bash
-    ms-python.debugpy@2025.14.1
-    ms-python.python@2025.16.0
-    ms-python.vscode-pylance@2025.9.1
-    ms-python.vscode-python-envs@1.10.0
+    batisteo.vscode-django@1.15.0
+    bracketpaircolordlw.bracket-pair-color-dlw@0.0.6
+    cweijan.vscode-mysql-client2@8.4.2
+    cweijan.vscode-postgresql-client2@8.4.2
+    esbenp.prettier-vscode@11.0.0
+    inferrinizzard.prettier-sql-vscode@1.6.0
+    mhutchie.git-graph@1.30.0
 ```
+- output exemple from CLI : 
+
+<p align=center>
+    <img src="assets/dl_from_vscode_list.png" width="650px">
+</p>
+
 
 ## 2\ From a url list : 
 
