@@ -3,7 +3,9 @@
     <img src='assets/logo.ico' width="250px">
 </p>
 
-- This is a simple CLI tool to get your VsCode VSIX files extension : 
+- This is a simple CLI tool to get your VsCode VSIX files extension :
+- **Interested in a Chrome Extension?**  
+You can also download VSCode extensions directly from the Marketplace page using the [VSIX Getter Chrome Extension](https://github.com/LGD-P/Vsix-Getter-Chrome-Extension.git).
 
 ## 1\ From your current VsCode :
 
