@@ -39,9 +39,16 @@
     https://marketplace.visualstudio.com/items?itemName=fnando.linter
 ```
 
+```bash
+    python3 main.py from-url-list
+```
+
 ## 3\ From a single url :
 - Finally, you can download a single extension directly from its marketplace URL 
 
+```bash
+    python3 main.py from-single-url https://marketplace.visualstudio.com/items?itemName=fnando.linter
+```
 
 *Every download is stored in your current dir under `VSIX-DL/` dir*
 
