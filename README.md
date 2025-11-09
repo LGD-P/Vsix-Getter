@@ -1,13 +1,14 @@
 
 <p align=center>
     <img src='assets/logo.ico' width="250px>
-<p>
+</p>
 
 - This is a simple CLI tool to get your VsCode VSIX files extension : 
 
 ## 1\ From your current VsCode :
 
 - You can export a list of your currently installed extensions from VSCode : 
+
 ```bash
     code --list-extensions --show-versions | tail -n+2  > ext_list.txt
 ```
